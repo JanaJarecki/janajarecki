@@ -8,5 +8,5 @@ Science from data. Not any data, but complex data about human cognition and beha
 
 ### The languages I use most for
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janajarecki&size_weight=0.5&count_weight=0.5&hide=javascript,html,css,scss,tex,PostScript&langs_count=3&layout=compact&title_color=000000&border_radius=.1&card_width=400&custom_title=Data%20Science)](https://github.com/janajarecki/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janajarecki&size_weight=0.5&count_weight=0.5&hide=R,python,c++&langs_count=3&layout=compact&title_color=000000&border_radius=.1&card_width=400&custom_title=Web%20Design)](https://github.com/janajarecki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janajarecki&size_weight=0.5&count_weight=0.5&hide=R,python,c++,TeX&langs_count=3&layout=compact&title_color=000000&border_radius=.1&card_width=400&custom_title=Web%20Design)](https://github.com/janajarecki/github-readme-stats)
 
