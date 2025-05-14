@@ -3,6 +3,7 @@ Science from data. Not any data, but complex data about human cognition and beha
 ### My work
 * 20+ peer-reviewed publications, the majority first-authored, many a team effort with great collaborators
 * 10+ open-source data sets including machine-readable meta-data and semi-automated data documentation
+* Data visualuzation and data storytelling expert
 * 3 statistical software libraries, including machine-learning classifiers and automated reporting (R statistics)
 * 1 platform for psychometric cognitive testing (Python to interface with Otree)
 
