@@ -1,4 +1,10 @@
-Predictive data science combined with expertise in human cognition and behavior, especially online. 14 years experience in human thinking & behavior, 10+ years of statistical coding, ML model development, and empirical study design; diverse data like sensor data, simulations, experiments, observational registry data (RWD), electronic records (EHR), digital application usability studies (UX), discrete choice data, A/B-tests, and web-scraped data. Advanced statistics, machine learning, and AI to forecast human-centered outcomes and behaviors like learning, preference, risky choice, medical choice, perceptions, and health application usage. As such, I am passionate about data.
+I develop statistical and machine learning models to forecast individual behavior in complex, real-world settings — drawing on over 14 years of research in cognition, decision-making, and learning, and over 10 years of experience with empirical modeling, coding, and behavioral data analysis.
+
+My focus is on high-dimensional, longitudinal, and multi-modal data: sensor signals, digital traces, experimental and observational datasets, EHRs, choice tasks, A/B tests, and usability studies. I build models that capture subtle, often latent patterns in how people act, adapt, and decide over time.
+
+Core strengths include probabilistic modeling, causal inference, time-series analysis, and predictive performance optimization in noisy behavioral data. My work sits at the intersection of statistical learning and behavioral science—designed to produce interpretable, actionable insights that support early detection, adaptive systems, and human-centered design.
+
+This approach enables rigorous, theory-informed prediction of individual behavior—especially where precision and interpretability matter.
 
 ### My work
 * 20+ peer-reviewed publications, the majority first-authored, many a team effort with great collaborators
